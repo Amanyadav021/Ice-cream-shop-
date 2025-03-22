@@ -1,0 +1,721 @@
+[11-Mar-2025 17:08:37 Europe/Berlin] Login attempt - Username: admin
+[11-Mar-2025 17:08:37 Europe/Berlin] POST data: Array
+(
+    [username] => admin
+    [password] => admin123
+)
+
+[11-Mar-2025 17:08:37 Europe/Berlin] Found user data: Array
+(
+    [id] => 34
+    [username] => admin
+    [password] => $2y$10$8K1p/a7kgFX3YJpBF8Ah3O3VFv9CxqGQJ3MZYGOsWwZqJ9wEBQzOi
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:34:01
+)
+
+[11-Mar-2025 17:08:37 Europe/Berlin] Stored password hash: $2y$10$8K1p/a7kgFX3YJpBF8Ah3O3VFv9CxqGQJ3MZYGOsWwZqJ9wEBQzOi
+[11-Mar-2025 17:08:37 Europe/Berlin] Attempting to verify password...
+[11-Mar-2025 17:08:38 Europe/Berlin] Password verification result: false
+[11-Mar-2025 17:08:38 Europe/Berlin] Password verification failed!
+[11-Mar-2025 17:08:38 Europe/Berlin] Current database state:
+[11-Mar-2025 17:08:38 Europe/Berlin] Array
+(
+    [id] => 34
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:08:40 Europe/Berlin] Current database state:
+[11-Mar-2025 17:08:40 Europe/Berlin] Array
+(
+    [id] => 34
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:08:48 Europe/Berlin] Current database state:
+[11-Mar-2025 17:08:48 Europe/Berlin] Array
+(
+    [id] => 34
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:08:57 Europe/Berlin] Login attempt - Username: admin
+[11-Mar-2025 17:08:57 Europe/Berlin] POST data: Array
+(
+    [username] => admin
+    [password] => admin123
+)
+
+[11-Mar-2025 17:08:57 Europe/Berlin] Found user data: Array
+(
+    [id] => 34
+    [username] => admin
+    [password] => $2y$10$8K1p/a7kgFX3YJpBF8Ah3O3VFv9CxqGQJ3MZYGOsWwZqJ9wEBQzOi
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:34:01
+)
+
+[11-Mar-2025 17:08:57 Europe/Berlin] Stored password hash: $2y$10$8K1p/a7kgFX3YJpBF8Ah3O3VFv9CxqGQJ3MZYGOsWwZqJ9wEBQzOi
+[11-Mar-2025 17:08:57 Europe/Berlin] Attempting to verify password...
+[11-Mar-2025 17:08:57 Europe/Berlin] Password verification result: false
+[11-Mar-2025 17:08:57 Europe/Berlin] Password verification failed!
+[11-Mar-2025 17:08:57 Europe/Berlin] Current database state:
+[11-Mar-2025 17:08:57 Europe/Berlin] Array
+(
+    [id] => 34
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:12:19 Europe/Berlin] Login attempt - Username: admin
+[11-Mar-2025 17:12:19 Europe/Berlin] POST data: Array
+(
+    [username] => admin
+    [password] => admin123
+)
+
+[11-Mar-2025 17:12:19 Europe/Berlin] Found user data: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[11-Mar-2025 17:12:19 Europe/Berlin] Stored password hash: $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+[11-Mar-2025 17:12:19 Europe/Berlin] Attempting to verify password...
+[11-Mar-2025 17:12:19 Europe/Berlin] Password verification result: true
+[11-Mar-2025 17:12:19 Europe/Berlin] Password verified successfully!
+[11-Mar-2025 17:12:19 Europe/Berlin] Logging in user: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[11-Mar-2025 17:12:19 Europe/Berlin] Session after login: Array
+(
+    [user_id] => 44
+    [username] => admin
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:13:55 Europe/Berlin] Current database state:
+[11-Mar-2025 17:13:55 Europe/Berlin] Array
+(
+    [id] => 44
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[11-Mar-2025 17:14:04 Europe/Berlin] Login attempt - Username: admin
+[11-Mar-2025 17:14:04 Europe/Berlin] POST data: Array
+(
+    [username] => admin
+    [password] => admin123
+)
+
+[11-Mar-2025 17:14:04 Europe/Berlin] Found user data: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[11-Mar-2025 17:14:04 Europe/Berlin] Stored password hash: $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+[11-Mar-2025 17:14:04 Europe/Berlin] Attempting to verify password...
+[11-Mar-2025 17:14:04 Europe/Berlin] Password verification result: true
+[11-Mar-2025 17:14:04 Europe/Berlin] Password verified successfully!
+[11-Mar-2025 17:14:04 Europe/Berlin] Logging in user: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[11-Mar-2025 17:14:04 Europe/Berlin] Session after login: Array
+(
+    [user_id] => 44
+    [username] => admin
+    [is_admin] => 1
+)
+
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=20884 in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=20884 in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=20884 in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=20884 in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:12:29 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\icecream_shop\config\database.php on line 7
+[12-Mar-2025 13:13:40 Europe/Berlin] Current database state:
+[12-Mar-2025 13:13:40 Europe/Berlin] Array
+(
+    [id] => 44
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[12-Mar-2025 13:13:54 Europe/Berlin] Login attempt - Username: admin
+[12-Mar-2025 13:13:54 Europe/Berlin] POST data: Array
+(
+    [username] => admin
+    [password] => admin123
+)
+
+[12-Mar-2025 13:13:54 Europe/Berlin] Found user data: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[12-Mar-2025 13:13:54 Europe/Berlin] Stored password hash: $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+[12-Mar-2025 13:13:54 Europe/Berlin] Attempting to verify password...
+[12-Mar-2025 13:13:54 Europe/Berlin] Password verification result: true
+[12-Mar-2025 13:13:54 Europe/Berlin] Password verified successfully!
+[12-Mar-2025 13:13:54 Europe/Berlin] Logging in user: Array
+(
+    [id] => 44
+    [username] => admin
+    [password] => $2y$10$/oZ96BPWVL6jtglaQ0p.au1NcVZQ42Xgi9ZaJfwUenkpQqlz9edqq
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+    [created_at] => 2025-03-11 21:42:19
+)
+
+[12-Mar-2025 13:13:54 Europe/Berlin] Session after login: Array
+(
+    [user_id] => 44
+    [username] => admin
+    [is_admin] => 1
+)
+
+[12-Mar-2025 13:16:54 Europe/Berlin] Current database state:
+[12-Mar-2025 13:16:54 Europe/Berlin] Array
+(
+    [id] => 44
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[16-Mar-2025 20:14:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:14:35 UTC] Current database state:
+[16-Mar-2025 20:14:35 UTC] Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[16-Mar-2025 20:14:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:14:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:15:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:15:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:16:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:16:55 UTC] Current database state:
+[16-Mar-2025 20:16:55 UTC] Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[16-Mar-2025 20:17:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:17:00 UTC] Current database state:
+[16-Mar-2025 20:17:00 UTC] Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[16-Mar-2025 20:18:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:18:59 UTC] Current database state:
+[16-Mar-2025 20:18:59 UTC] Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@icecream.shop
+    [is_admin] => 1
+)
+
+[16-Mar-2025 20:18:59 UTC] Array
+(
+    [id] => 210
+    [username] => Aman
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 20:19:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:19:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:19:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:31:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:31:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:52:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:52:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in D:\AMAN\icecream_shop\login.php:54
+Stack trace:
+#0 D:\AMAN\icecream_shop\login.php(54): mysqli->prepare()
+#1 {main}
+  thrown in D:\AMAN\icecream_shop\login.php on line 54
+[16-Mar-2025 20:55:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 20:55:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in D:\AMAN\icecream_shop\login.php:54
+Stack trace:
+#0 D:\AMAN\icecream_shop\login.php(54): mysqli->prepare()
+#1 {main}
+  thrown in D:\AMAN\icecream_shop\login.php on line 54
+[16-Mar-2025 21:02:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:02:22 UTC] Admin user created with known working hash
+[16-Mar-2025 21:02:22 UTC] Current database state:
+[16-Mar-2025 21:02:22 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:02:22 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:02:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:02:34 UTC] Current database state:
+[16-Mar-2025 21:02:34 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:02:34 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:04:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:04:16 UTC] Current database state:
+[16-Mar-2025 21:04:16 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:04:16 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:04:16 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:05:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:08:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:08:45 UTC] Current database state:
+[16-Mar-2025 21:08:45 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:08:45 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:08:45 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:08:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:11:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:11:15 UTC] Current database state:
+[16-Mar-2025 21:11:15 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:11:15 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:11:15 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:11:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:11:28 UTC] Current database state:
+[16-Mar-2025 21:11:28 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:11:28 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:11:28 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:16:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:16:24 UTC] Current database state:
+[16-Mar-2025 21:16:24 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:16:24 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:16:24 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:16:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:17:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:17:20 UTC] Current database state:
+[16-Mar-2025 21:17:20 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:17:20 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:17:20 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:17:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:20:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:20:03 UTC] Current database state:
+[16-Mar-2025 21:20:03 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:20:03 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:20:03 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:20:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:44:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:44:05 UTC] Current database state:
+[16-Mar-2025 21:44:05 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:44:05 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:44:05 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:44:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:44:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:45:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:45:28 UTC] Current database state:
+[16-Mar-2025 21:45:28 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:45:28 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:45:28 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:45:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:45:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:52:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:52:32 UTC] Current database state:
+[16-Mar-2025 21:52:32 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:52:32 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:52:32 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:52:32 UTC] Array
+(
+    [id] => 4
+    [name] => yoo
+    [email] => yooo@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:52:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:53:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 21:53:34 UTC] Current database state:
+[16-Mar-2025 21:53:34 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:53:34 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 21:53:34 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:53:34 UTC] Array
+(
+    [id] => 4
+    [name] => yoo
+    [email] => yooo@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 21:53:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:38 UTC] Current database state:
+[16-Mar-2025 09:44:38 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 09:44:38 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 09:44:38 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 09:44:38 UTC] Array
+(
+    [id] => 4
+    [name] => yoo
+    [email] => yooo@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 09:44:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:44:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:45:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:46:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from D:\AMAN\icecream_shop\login.php on line 8) in D:\AMAN\icecream_shop\includes\auth.php on line 2
+[16-Mar-2025 09:46:02 UTC] Current database state:
+[16-Mar-2025 09:46:02 UTC] Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 09:46:02 UTC] Array
+(
+    [id] => 2
+    [name] => Admin
+    [email] => admin@sweetscoop.com
+    [is_admin] => 1
+)
+
+[16-Mar-2025 09:46:02 UTC] Array
+(
+    [id] => 3
+    [name] => Aman Yadav
+    [email] => aman92056yadav@gmail.com
+    [is_admin] => 0
+)
+
+[16-Mar-2025 09:46:02 UTC] Array
+(
+    [id] => 4
+    [name] => yoo
+    [email] => yooo@gmail.com
+    [is_admin] => 0
+)
+
